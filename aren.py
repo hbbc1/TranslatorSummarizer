@@ -1,11 +1,3 @@
-#Install necesserary libraries
-!pip install openai_secret_manager
-!pip install openai
-!pip install transformers
-!pip install sentencepiece
-!pip install sacremoses
-!pip install newspaper3k
-!pip install praw
 import praw
 from newspaper import Article
 from transformers import MarianMTModel, MarianTokenizer
