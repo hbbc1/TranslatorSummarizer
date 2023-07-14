@@ -1,0 +1,7 @@
+openai_secret_manager
+openai
+transformers
+sentencepiece
+sacremoses
+newspaper3k
+praw
